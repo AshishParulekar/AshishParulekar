@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishparulekar&label=Profile%20views&color=0e75b6&style=flat" alt="ashishparulekar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ashishparulekar" target="blank"><img src="https://img.shields.io/twitter/follow/ashishparulekar?logo=twitter&style=for-the-badge" alt="ashishparulekar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
