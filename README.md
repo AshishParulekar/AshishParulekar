@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Ashish Parulekar</h1>
 <h3 align="center">
   🚀 Agentic AI Engineer 
@@ -130,32 +128,18 @@
   </tr>
 </table>
 
----
-
-<h3 align="center">📂 Latest Repositories</h3>
-<h3 align="center">📂 Latest Repositories</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishparulekar&repo=RAG-Quiz&theme=dark" alt="RAG-Quiz Repo" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishparulekar&repo=NLQ-WhatsApp&theme=dark" alt="NLQ-WhatsApp Repo" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishparulekar&repo=Text-to-SQL-Agent&theme=dark" alt="Text-to-SQL-Agent Repo" />
-</p>
-
-
----
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishparulekar&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishparulekar&" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishparulekar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishParulekar&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishParulekar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+## Recent Activity
+
+- Pushed changes to [CICD-Testing-with-Doker-image-creation-GitHub-Actions-](https://github.com/AshishParulekar/CICD-Testing-with-Doker-image-creation-GitHub-Actions-)
+- Updated the [RAGify---RAG-Concepts-Quiz-App](https://github.com/AshishParulekar/RAGify---RAG-Concepts-Quiz-App) repository.
+
+## Latest Blog Posts
+
+Currently, I don't have any blog posts. Stay tuned for updates!
