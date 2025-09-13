@@ -27,73 +27,108 @@
 
 ---
 
-### 🛠️ Languages and Tools
-<!-- Programming & Frameworks -->
-<div style="display:flex; align-items:center; margin-bottom:15px;">
-  <h4 style="width:200px; margin:0;">Programming & Frameworks:</h4>
-  <div style="display:flex; gap:15px;">
-    <a href="https://www.python.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>Python
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br>FastAPI
-    </a>
-    <a href="https://streamlit.io/" target="_blank">
-      <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40"/><br>Streamlit
-    </a>
-  </div>
-</div>
+<h3 align="center">🛠️ Languages and Tools</h3>
 
-<!-- Databases -->
-<div style="display:flex; align-items:center; margin-bottom:15px;">
-  <h4 style="width:200px; margin:0;">Databases:</h4>
-  <div style="display:flex; gap:15px;">
-    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br>MongoDB
-    </a>
-    <a href="https://www.w3schools.com/sql/" target="_blank">
-      <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" height="40"/><br>SQL
-    </a>
-  </div>
-</div>
+<table align="center">
+  <!-- Programming -->
+  <tr>
+    <td colspan="3" align="center"><b>Programming & Frameworks</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/><br>Python
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40"/><br>FastAPI
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://streamlit.io/" target="_blank">
+        <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" height="40"/><br>Streamlit
+      </a>
+    </td>
+  </tr>
 
-<!-- Cloud & DevOps -->
-<div style="display:flex; align-items:center; margin-bottom:15px;">
-  <h4 style="width:200px; margin:0;">Cloud & DevOps:</h4>
-  <div style="display:flex; gap:15px;">
-    <a href="https://azure.microsoft.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/><br>Azure
-    </a>
-    <a href="https://www.docker.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/><br>Docker
-    </a>
-    <a href="https://github.com/features/actions" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/><br>GitHub Actions
-    </a>
-  </div>
-</div>
+  <!-- Databases -->
+  <tr>
+    <td colspan="3" align="center"><b>Databases</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/><br>MySQL
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/><br>MongoDB
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.w3schools.com/sql/" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="40" height="40"/><br>SQL
+      </a>
+    </td>
+  </tr>
 
-<!-- Agentic AI & LLM Tools -->
-<div style="display:flex; align-items:center; margin-bottom:15px;">
-  <h4 style="width:200px; margin:0;">Agentic AI & LLM Tools:</h4>
-  <div style="display:flex; gap:15px;">
-    <a href="https://openai.com/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/256/11865/11865313.png" width="40" height="40"/><br>OpenAI
-    </a>
-    <a href="https://github.com/microsoft/autogen" target="_blank">
-      <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" height="40"/><br>AutoGen
-    </a>
-    <a href="https://www.langchain.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="40" height="40"/><br>LangChain
-    </a>
-    <a href="https://www.langraph.dev/" target="_blank">
-      <img src="https://tse4.mm.bing.net/th/id/OIP.Klw8eGW2RmhN-vwyRDxFmAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" height="40"/><br>LangGraph
-    </a>
-  </div>
-</div>
+  <!-- Cloud & DevOps -->
+  <tr>
+    <td colspan="3" align="center"><b>Cloud & DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/><br>Azure
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/><br>Docker
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/features/actions" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/><br>GitHub Actions
+      </a>
+    </td>
+  </tr>
+
+  <!-- Agentic AI & LLMs -->
+  <tr>
+    <td colspan="3" align="center"><b>Agentic AI & LLM Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://openai.com/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/256/11865/11865313.png" width="40" height="40"/><br>OpenAI
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://github.com/microsoft/autogen" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="40" height="40"/><br>AutoGen
+      </a>
+    </td>
+    <td align="center" width="120">
+      <a href="https://www.langchain.com/" target="_blank">
+        <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="40" height="40"/><br>LangChain
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.langraph.dev/" target="_blank">
+        <img src="https://tse4.mm.bing.net/th/id/OIP.Klw8eGW2RmhN-vwyRDxFmAAAAA?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="40" height="40"/><br>LangGraph
+      </a>
+    </td>
+    <td align="center" width="120"></td>
+    <td align="center" width="120"></td>
+  </tr>
+</table>
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishParulekar&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishParulekar&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -106,3 +141,9 @@
 ## Latest Blog Posts
 
 Currently, I don't have any blog posts. Stay tuned for updates!
+
+
+
+<
+
+
