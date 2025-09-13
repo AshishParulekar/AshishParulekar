@@ -1,20 +1,29 @@
-<h1 align="center">Hi 👋, I'm Ashish Parulekar</h1>
-<h3 align="center">
-  🚀 Agentic AI Engineer 
-</h3>
+# Hi 👋, I'm Ashish Parulekar
+
+I'm a passionate **Agentic AI Engineer** . I specialize in:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Orange?style=for-the-badge&logo=postgresql" alt="SQL" />
+   <img src="https://img.shields.io/badge/Agentic%20AI-Blue?style=for-the-badge&logo=artstation" alt="Agentic AI" />
+   <img src="https://img.shields.io/badge/Generative%20AI-Red?style=for-the-badge&logo=openai" alt="Generative AI" />
+  
   <img src="https://img.shields.io/badge/Python-Blue?style=for-the-badge&logo=python" alt="Python" />
   <img src="https://img.shields.io/badge/Data%20Science-Purple?style=for-the-badge&logo=databricks" alt="Data Science" />
   <img src="https://img.shields.io/badge/Machine%20Learning-LightBlue?style=for-the-badge&logo=tensorflow" alt="ML" />
-  <img src="https://img.shields.io/badge/Deep%20Learning-Pink?style=for-the-badge&logo=keras" alt="Deep Learning" />
-  <img src="https://img.shields.io/badge/Generative%20AI-Red?style=for-the-badge&logo=openai" alt="Generative AI" />
+  
+  <img src="https://img.shields.io/badge/SQL-Orange?style=for-the-badge&logo=postgresql" alt="SQL" />
+  
 </p>
 
+---
+## About Me
+
+I'm based in **Pune, India**. I am a working and constant learner in the field of **Agentic AI, Machine Learning, and Data Science**, actively seeking opportunities to apply my skills in building **intelligent AI systems, LLM-based agents, and autonomous workflows**. My journey in technology has been fueled by curiosity, creativity, and a strong desire to leverage AI for real-world problem solving.
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashishparulekar&label=Profile%20views&color=0e75b6&style=flat" alt="ashishparulekar" />
+  <img src="https://komarev.com/ghpvc/?username=ashishparulekar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+
+
 
 ---
 
