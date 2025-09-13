@@ -92,7 +92,7 @@
 <tr>
   <td align="center" width="120">
     <a href="https://openai.com/" target="_blank">
-      <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" width="40" height="40"/><br>OpenAI
+      <img src="https://cdn-icons-png.flaticon.com/256/11865/11865313.png" width="40" height="40"/><br>OpenAI
     </a>
   </td>
   <td align="center" width="120">
