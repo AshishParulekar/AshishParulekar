@@ -135,15 +135,16 @@
 <h3 align="center">📂 Latest Repositories</h3>
 <p align="center">
   <a href="https://github.com/ashishparulekar/RAG-Quiz" target="_blank">
-    <img src="https://img.shields.io/badge/RAG-Quiz-blue?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/RAG--Quiz-blue?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/ashishparulekar/NLQ-WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/NLQ-WhatsApp-green?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/NLQ--WhatsApp-green?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/ashishparulekar/Text-to-SQL-Agent" target="_blank">
-    <img src="https://img.shields.io/badge/Text-to-SQL-Agent-orange?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/Text--to--SQL--Agent-orange?style=for-the-badge&logo=github" />
   </a>
 </p>
+
 
 ---
 
@@ -158,6 +159,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishparulekar&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
 
 
 
