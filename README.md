@@ -133,16 +133,11 @@
 ---
 
 <h3 align="center">📂 Latest Repositories</h3>
+<h3 align="center">📂 Latest Repositories</h3>
 <p align="center">
-  <a href="https://github.com/ashishparulekar/RAG-Quiz" target="_blank">
-    <img src="https://img.shields.io/badge/RAG--Quiz-blue?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/ashishparulekar/NLQ-WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/NLQ--WhatsApp-green?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/ashishparulekar/Text-to-SQL-Agent" target="_blank">
-    <img src="https://img.shields.io/badge/Text--to--SQL--Agent-orange?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishparulekar&repo=RAG-Quiz&theme=dark" alt="RAG-Quiz Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishparulekar&repo=NLQ-WhatsApp&theme=dark" alt="NLQ-WhatsApp Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashishparulekar&repo=Text-to-SQL-Agent&theme=dark" alt="Text-to-SQL-Agent Repo" />
 </p>
 
 
